@@ -922,6 +922,8 @@ input, select, textarea {
 /* Icons */
 
 	ul.icons {
+		padding-top: 3%;
+		padding-top: 3%;
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
